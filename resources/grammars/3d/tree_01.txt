@@ -1,0 +1,12 @@
+axiom: Fmnop
+angle_z: 10 - 25
+angle_y: 10 - 25
+angle_x: 10 - 25
+rules: m -> [+(><)AB], n -> [+<180(><)AB], o -> [+<90(><)AB], o -> x, p -> [+<270(><)AB], p -> x, A -> @F[rFXB]XB,
+rules: X -> @[rFX[rFXB]rFXB]rFXB,  X -> @[rFXB]rFXB
+branch-shortening: 0.6 - 0.8
+generations: 3
+base_length: 10
+base_radius: 0.3
+bark_texture: ../resources/bark_seamless.jpg
+leaf_texture: ../resources/leafs.png

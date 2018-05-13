@@ -1,0 +1,11 @@
+axiom: mnop
+angle_z: 10 - 25
+angle_y: 10 - 25
+angle_x: 10 - 25
+rules: m -> [+(><)X], n -> [+<180(><)X], o -> [+<90(><)X], o -> x, p -> [+<270(><)X], p -> x, X -> @[rFX@2.0B]rFX@2.0B
+branch-shortening: 0.5 - 0.7
+generations: 3
+base_length: 4
+base_radius: 0.06
+bark_texture: ../resources/bark_seamless.jpg
+leaf_texture: ../resources/bush.png

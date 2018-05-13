@@ -1,0 +1,5 @@
+axiom: X
+angle_z: 25 - 25
+rules: X -> F[-X][X]F[-X]+FX, F -> FF
+generations: 5
+base_length: 30

@@ -1,0 +1,4 @@
+axiom: A
+angle: 0
+rules: A -> AB, B -> A
+can not be drawn in my system

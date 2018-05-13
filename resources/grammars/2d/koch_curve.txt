@@ -1,0 +1,5 @@
+axiom: F
+angle_z: 90 - 90
+rules: F -> F+F-F-F+F
+generations: 3
+base_length: 30

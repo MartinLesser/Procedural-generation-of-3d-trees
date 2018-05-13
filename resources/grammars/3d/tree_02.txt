@@ -1,0 +1,11 @@
+axiom: t
+angle_z: 10 - 20
+angle_y: 10 - 20
+angle_x: 10 - 20
+rules: t -> F[b][b][o][o], o -> b, o -> x, b -> @rtB
+branch-shortening: 0.8 - 0.9
+generations: 10
+base_length: 20
+base_radius: 0.3
+bark_texture: ../resources/bark_02_seamless.jpg
+leaf_texture: ../resources/leafs02.png

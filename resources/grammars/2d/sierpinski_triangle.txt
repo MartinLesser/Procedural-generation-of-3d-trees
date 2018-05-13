@@ -1,0 +1,5 @@
+axiom: F-G-G
+angle_z: 120 - 120
+rules: F -> F-G+F+G-F, G -> GG
+generations: 3
+base_length: 60

@@ -1,0 +1,13 @@
+axiom: Ft
+angle_z: 150 - 160
+angle_y: 0 - 10
+angle_x: 0 - 10
+rules: t -> @0.7f[@0.5+[<40(<>)a][<80(<>)a][<120(<>)a][<160(<>)a][<200(<>)a][<240(<>)a][<280(<>)a][<320(<>)a][<360(<>)a]]t, a -> @1.0B@0.5F, f -> F
+c -> [@0.8rF][@0.8rF][@0.8rF][@0.8rF]
+branch-shortening: 0.1 - 0.3
+generations: 8
+base_length: 20
+num_sides: 6
+base_radius: 0.1
+bark_texture: ../resources/conifer_bark.png
+leaf_texture: ../resources/conifer.png

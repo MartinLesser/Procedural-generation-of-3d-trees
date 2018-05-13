@@ -1,0 +1,6 @@
+axiom: FX
+angle_z: 5 - 30
+rules: X -> @[-FX[-FX]]+FX
+branch-shortening: 0.8 - 0.9
+generations: 4
+base_length: 200
