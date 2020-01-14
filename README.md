@@ -9,9 +9,11 @@ tree volume and create an actual tree. All the vertices will be given in the rig
 (to form triangles) to the opengl engine. Texture coordinates will also be transmitted.
 PyGame renders the 3d tree finally.
 
-The rules for the l-system can be found in ([grammar files](src/resources/grammars/3d)). 
+The rules for the L-system can be found in ([grammar files](src/resources/grammars/3d)). 
 
 Author: Martin Lesser
+
+![picture of generated tree with different gernations and variations](https://github.com/MartinLesser/Procedural-generation-of-3d-trees/blob/master/doc/GeneratedSameTreeWithRandomVarationsAndIterations.png "Generated tree")
 
 ## Dependencies
 pygame  
@@ -76,6 +78,6 @@ E.g. (+-) means rotate right or left. Which symbol will be taken is determined b
 `B` will be replaced as L which generate a leaf.
 
 # Further information
-If you want more information how the system works you could read my bachelor thesis (see doc directory)
+If you want more information how the system works you could read my bachelor thesis (see [doc directory](doc/))
 which is written in german. If you can't understand german you can write me an email and I can expand
 the readme.
